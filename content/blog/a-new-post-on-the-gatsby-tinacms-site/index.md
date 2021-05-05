@@ -1,5 +1,5 @@
 ---
-title: A new post on the Gatsby TinaCMS site
+title: Example post created in TinaCMS Gatsby
 date: '2021-05-05T12:02:42.931Z'
 description: Well this is a surprise
 ---
