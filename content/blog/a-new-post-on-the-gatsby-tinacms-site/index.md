@@ -10,4 +10,4 @@ A bit of initial content
 | Table Headings | 1 | 2 |
 | --- | --- | --- |
 | A table of stuff ;) | looking  not too bad | And will it work so easily with MarkDown :) |
-|  |  |  |
+|   |  |  |
